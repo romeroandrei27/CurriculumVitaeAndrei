@@ -14,7 +14,7 @@ Habilidades técnicas: Bases de datos, desarrollador Java, desarrollador web An�
 
 Lenguajes o tecnologías que conocen: Ingles B2
 
-Herramientas que utilizan: Java, Java Script, HTML, Oracle SQL, Microsoft Office (Word, Excel avanzado, PowerPoint), Microsoft 365 (Excel, Teams), Kanban, Git, Visual Studio Code, Eclipse Ide.
+Herramientas que utilizan: Java, Java Script, HTML, Oracle SQL, Microsoft Office (Word, Excel avanzado, PowerPoint), Microsoft 365 (Excel, Teams), Kanban, Git, Visual Studio Code, Eclipse Ide, Canva, Chat GPT, Gemini Pro.
 
 Áreas de interés: Desarrollador Java
 
