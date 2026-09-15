@@ -2,38 +2,38 @@
 Curriculum Vitae del Ing. Andrei Hugo Salomon Romero Hernandez
 
 
-### Nombre completo: 
+- ### Nombre completo: 
 Andrei Hugo Salomón Romero Hernández
 
-### Carrera: 
+- ### Carrera: 
 Ingenieria en Sistemas Computacionales
 
-### Breve presentación profesional: 
+- ### Breve presentación profesional: 
 Egresado de la Licenciatura en Ingeniería en Sistemas Computacionales con enfoque en el desarrollo en Java y bases de datos en Oracle SQL. Caracterizándome con responsabilidad y compromiso en el trabajo, además con buen desempeño en el trabajo colaborativo.
 
-### Formación académica: 
+- ### Formación académica: 
 Licenciatura en Ingenieria en Sistemas Computacionales en el Centro Universitario Hidalguense
 
-### Habilidades técnicas: 
+- ### Habilidades técnicas: 
 Bases de datos, desarrollador Java, desarrollador web Análisis de datos, Gestión de proyectos
 
-### Lenguajes o tecnologías que conocen: 
+- ### Lenguajes o tecnologías que conocen: 
 Ingles B2
 
-### Herramientas que utilizan: 
+- ### Herramientas que utilizan: 
 Java, Java Script, HTML, Oracle SQL, Microsoft Office (Word, Excel avanzado, PowerPoint), Microsoft 365 (Excel, Teams), Kanban, Git, Visual Studio Code, Eclipse Ide, Canva, Chat GPT, Gemini Pro.
 
-### Áreas de interés: 
+- ### Áreas de interés: 
 Desarrollador Java
 
 ![Imagen Java](https://ubiqum.com/wp-content/uploads/2024/06/aprender-java-e1726558855828.jpg)
 [Progrmacion en Java](https://youtu.be/_L7IxAwEgrY?si=t8zj5da6l54z5uVb)
 
-### Proyectos académicos o personales: 
+- ### Proyectos académicos o personales: 
 Tianguis Store, Calculex
 
-### Enlaces profesionales, si tienen: 
+- ### Enlaces profesionales, si tienen: 
 Ninguna
 
-### Objetivo profesional o área en la que desean desarrollarse: 
+- ### Objetivo profesional o área en la que desean desarrollarse: 
 Desarrollador java 
