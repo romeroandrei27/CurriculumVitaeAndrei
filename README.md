@@ -2,7 +2,7 @@
 Curriculum Vitae del Ing. Andrei Hugo Salomon Romero Hernandez
 
 
-- ### Nombre completo: 
+### Nombre completo: 
 Andrei Hugo Salomón Romero Hernández
 
 ### Carrera: 
