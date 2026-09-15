@@ -27,6 +27,7 @@ Java, Java Script, HTML, Oracle SQL, Microsoft Office (Word, Excel avanzado, Pow
 Desarrollador Java
 
 ![Imagen Java](https://ubiqum.com/wp-content/uploads/2024/06/aprender-java-e1726558855828.jpg)
+[Progrmacion en Java](https://youtu.be/_L7IxAwEgrY?si=t8zj5da6l54z5uVb)
 
 ### Proyectos académicos o personales: 
 Tianguis Store, Calculex
