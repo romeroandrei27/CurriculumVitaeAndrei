@@ -26,6 +26,8 @@ Java, Java Script, HTML, Oracle SQL, Microsoft Office (Word, Excel avanzado, Pow
 ### Áreas de interés: 
 Desarrollador Java
 
+![Imagen Java](https://ubiqum.com/wp-content/uploads/2024/06/aprender-java-e1726558855828.jpg)
+
 ### Proyectos académicos o personales: 
 Tianguis Store, Calculex
 
